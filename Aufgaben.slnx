@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Aufgabe 1/Aufgabe 1.csproj" />
+  <Project Path="Aufgabe 2/Aufgabe 2.csproj" />
+  <Project Path="Aufgabe 3/Aufgabe 3.csproj" />
+  <Project Path="Aufgabe 4/Aufgabe 4.csproj" />
+  <Project Path="Aufgabe 5/Aufgabe 5.csproj" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+</Solution>
